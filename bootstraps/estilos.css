@@ -1,0 +1,21 @@
+
+body {
+
+    background-image: url(/img/paisaje-rural-del-campo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+#input {
+
+    width: 300px;
+}
+
+#imagenpoke,#imagenpoke2 {
+
+    width: 300px;
+    height: 300px;
+
+}
